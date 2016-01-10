@@ -1,7 +1,9 @@
-# AnimApplet
-Learn how to do applet on java
 
-#Проект AnimApplet
+
+
+# Проект AnimApplet
+
+Learn how to do applet on java
 
 Реализован AlexOAnder
 
